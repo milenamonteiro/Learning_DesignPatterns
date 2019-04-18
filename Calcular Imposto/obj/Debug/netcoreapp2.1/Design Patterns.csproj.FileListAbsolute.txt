@@ -1,0 +1,11 @@
+C:\Users\milen\Documents\milena\curso\C#\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.deps.json
+C:\Users\milen\Documents\milena\curso\C#\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.json
+C:\Users\milen\Documents\milena\curso\C#\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.dev.json
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.dll
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.pdb
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.csprojAssemblyReference.cache
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.csproj.CoreCompileInputs.cache
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfoInputs.cache
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfo.cs
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.dll
+c:\Users\milen\Documents\milena\curso\C#\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.pdb

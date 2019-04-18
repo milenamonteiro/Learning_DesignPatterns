@@ -1,0 +1,11 @@
+C:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\bin\Debug\netcoreapp2.1\Open-Closed Principle.deps.json
+C:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\bin\Debug\netcoreapp2.1\Open-Closed Principle.runtimeconfig.json
+C:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\bin\Debug\netcoreapp2.1\Open-Closed Principle.runtimeconfig.dev.json
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\bin\Debug\netcoreapp2.1\Open-Closed Principle.dll
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\bin\Debug\netcoreapp2.1\Open-Closed Principle.pdb
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.csprojAssemblyReference.cache
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.csproj.CoreCompileInputs.cache
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.AssemblyInfoInputs.cache
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.AssemblyInfo.cs
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.dll
+c:\Users\milen\Documents\milena\curso\C#\Learning Design Patterns\Open-Closed Principle\obj\Debug\netcoreapp2.1\Open-Closed Principle.pdb
